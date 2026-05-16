@@ -1,4 +1,4 @@
-# IPFire_2.25_RCE_Authenticated
+# IPFire 2.25 Remote Code Execution (Authenticated) - CVE-2021-33393
 This exploit is based on CVE-2021-33393 (https://nvd.nist.gov/vuln/detail/CVE-2021-33393) and was built upon the original exploit by Mücahit Saratar (https://github.com/KaanaryOverFlow/ipfire-2-25-auth-rce), extending it to achieve a reverse shell with root privileges.
 
 ## Usage
